@@ -53,6 +53,12 @@ html {
   }
 }
 
+@media only screen and (max-width: 447px) {
+  .box{
+  	width: 300px;
+  }
+}
+
 
 
 .stext{
@@ -115,6 +121,17 @@ html {
   .slinks{
   	width: 400px;
   }
+}
+
+@media only screen and (max-width: 447px) {
+  .slinks{
+  	width: 300px;
+  }
+
+  .linkbox{
+	width: 70px;
+	height: 70px;
+}
 }
 
 
